@@ -1,0 +1,11 @@
+{
+	"ip": "{IP SERVER}",
+	"port": "{PORT SERVER}",
+	"auto-night-skip": "false",
+	"bots": [
+	  { "name": "bot1" },
+	  { "name": "bot2" },
+	  { "name": "bot3" }
+	]
+  }
+  
