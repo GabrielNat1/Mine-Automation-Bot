@@ -22,18 +22,26 @@ Este projeto utiliza a biblioteca [Mineflayer](https://github.com/PrismarineJS/m
 
 ## Instalação
 
-1. Clone o repositório:
+1. Abaixe o repositorio:
    ```bash
-   git clone https://github.com/seu-usuario/bot-server-tester.git
-   cd bot-server-tester
+   clique no code/download.zip & extraia
+   cd Mine_Automation_bot
+   ```
+   
+   ou
+   
+1.1 Clone o repositorio:
+   ```bash
+   git clone https://github.com/GabrielNat1/Mine_Automation_bot.git
+   cd  Mine_Automation_bot
    ```
 
-2. Instale as dependências:
+3. Instale as dependências:
    ```bash
    npm install
    ```
 
-3. Configure as opções no arquivo `config.json`:
+4. Configure as opções no arquivo `config.json`:
    ```json
    {
      "server": "ip_do_servidor",
@@ -42,7 +50,7 @@ Este projeto utiliza a biblioteca [Mineflayer](https://github.com/PrismarineJS/m
    }
    ```
 
-4. Inicie o script:
+5. Inicie o script:
    ```bash
    node index.js
    ```
