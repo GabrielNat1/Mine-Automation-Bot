@@ -66,4 +66,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Aviso Legal
 
-Este projeto foi desenvolvido apenas para fins educacionais e de teste. O autor **não se responsabiliza pelo uso indevido deste software**. Certifique-se de ter autorização do proprietário do servidor antes de realizar qualquer teste.
+Este projeto foi desenvolvido apenas para fins educacionais e de teste. O autor **não se responsabiliza pelo uso indevido deste software**. Certifique-se de ter autorização do proprietário do servidor antes de realizar qualquer teste..
