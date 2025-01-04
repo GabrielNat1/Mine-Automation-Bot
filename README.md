@@ -1,4 +1,4 @@
-# Mine Automation bot 2.0.
+# Mine Automation bot 2.0 <img src='https://github.com/user-attachments/assets/2b4862df-a4fd-4491-9aaf-3b0dba477f3d' width=20>
 
 Bem-vindo ao **Mine Automation Bot**, um projeto automatizado para gerenciar bots em servidores Minecraft. Este projeto permite que você:
 
